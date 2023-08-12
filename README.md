@@ -19,4 +19,4 @@
 patcasrom.github.io/portfolio
 
 ### Publications
-[Publication](https://www.cdc.gov/mmwr/volumes/70/wr/mm7045a3.htm)
+[Influenza Vaccinations During the COVID-19 Pandemic — 11 U.S. Jurisdictions, September–December 2020](https://www.cdc.gov/mmwr/volumes/70/wr/mm7045a3.htm)

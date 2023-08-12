@@ -1,8 +1,8 @@
 # Data Analyst Portfolio
 
 ### Education
-Master in Public Health, Epidemiology
-Bachelor in Biology, Biomedical Sciences
+-Master in Public Health, Epidemiology
+-Bachelor in Biology, Biomedical Sciences
 
 ### Work Experience
 

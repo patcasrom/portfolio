@@ -1,8 +1,8 @@
 # Data Analyst Portfolio
 
 ### Education
-- Master in Public Health, Epidemiology
-- Bachelor in Biology, Biomedical Sciences
+- MPH: Master in Public Health, Epidemiology | Ponce Health Science University (May 2015)
+- BS: Bachelor in Biology, Biomedical Sciences | University of Puerto Rico (May 2013)
 
 ### Work Experience
 - **Health Scientist at CDC**

@@ -7,7 +7,7 @@
 ### Work Experience
 - Health Scientist at CDC
 - Epidemiologist/Coordinator at Georgia Department of Public Health
-
+ 
 ### Skills
  - R
  - SQL

@@ -5,8 +5,8 @@
 - Bachelor in Biology, Biomedical Sciences
 
 ### Work Experience
-- CDC as Health Scientist
-- Georgia Department of Public Health as an Epidemiologist/Coordinator
+- Health Scientist at CDC
+- Epidemiologist/Coordinator at Georgia Department of Public Health 
 
 ### Projects
 patcasrom.github.io/portfolio

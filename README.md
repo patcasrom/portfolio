@@ -15,6 +15,5 @@
  - Power BI
  - Arc GIS
    
-
 ### Projects
 patcasrom.github.io/portfolio

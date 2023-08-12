@@ -21,6 +21,8 @@ patcasrom.github.io/portfolio
 ### Publications
 [Influenza Vaccinations During the COVID-19 Pandemic — 11 U.S. Jurisdictions, September–December 2020](https://www.cdc.gov/mmwr/volumes/70/wr/mm7045a3.htm)
 
+!(https://www.google.com/url?sa=i&url=https%3A%2F%2Fclipart-library.com%2Fclipart%2Fflu-vaccination-cliparts_3.htm&psig=AOvVaw29sShWEReXId9xv29QHZrk&ust=1691958220758000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMDVyeL514ADFQAAAAAdAAAAABAD)
+
 ### Connect with me
 - [LinkedIn](https://www.linkedin.com/in/patcasrom/)
 - [Medium](https://medium.com/@patcasrom)

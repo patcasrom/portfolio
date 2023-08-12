@@ -19,4 +19,4 @@
 patcasrom.github.io/portfolio
 
 ### Publications
-[Publication] (https://www.cdc.gov/mmwr/volumes/70/wr/mm7045a3.htm)
+[Publication](https://www.cdc.gov/mmwr/volumes/70/wr/mm7045a3.htm)

@@ -3,8 +3,8 @@
 #### Technical Skills: R, SAS, SQL, PowerBI, ArcGIS
 
 ## Education
-- MPH:   Master in Public Health, Epidemiology | Ponce Health Science University (_May 2015_)
-- BS:   Bachelor in Biology, Biomedical Sciences | University of Puerto Rico (_May 2013_)
+- MPH: Master in Public Health, Epidemiology | Ponce Health Science University (_May 2015_)
+- BS: Bachelor in Biology, Biomedical Sciences | University of Puerto Rico (_May 2013_)
 
 ## Work Experience
 - **Health Scientist at CDC**

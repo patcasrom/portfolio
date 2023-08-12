@@ -1,5 +1,5 @@
 title: Patricia Castro-Roman
-logo:https://github.com/patcasrom/portfolio/blob/main/unnamed_cropped.jpg
+logo: https://github.com/patcasrom/portfolio/blob/main/unnamed_cropped.jpg
 description: Data Analyst Portfolio
-show-dowloads: false
-theme: jelyll-theme-minimal
+show_dowloads: true
+theme: Jekyll-theme-minimal

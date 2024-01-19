@@ -12,6 +12,7 @@
  
 ## Skills
  - R
+ - Python
  - SQL
  - SAS
  - Power BI

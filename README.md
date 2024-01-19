@@ -1,6 +1,6 @@
 # Data Analyst Portfolio
 
-#### Technical Skills: R, SAS, SQL, PowerBI, ArcGIS
+#### Technical Skills: R, Python, SAS, SQL, PowerBI, ArcGIS
 
 ## Education
 - MPH: Master in Public Health, Epidemiology | Ponce Health Science University (_May 2015_)

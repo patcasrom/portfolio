@@ -15,7 +15,7 @@
  - Python
  - SQL
  - SAS
- - Power BI
+ - Power BI/Tableau
  - Arc GIS
    
 ## Projects
